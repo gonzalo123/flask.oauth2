@@ -1,4 +1,4 @@
-## Flask and OAuth 2
+## Python Flask and OAuth2: Building a Secure Authentication System
 
 
 I typically use Flask for APIs and Django for web applications that utilize sessions and OAuth authentication. However, do I truly need Django for these functionalities? The answer is no. While Django provides pre-built components, similar capabilities are also accessible in Flask, and implementing them is quite straightforward. Additionally, I am a strong advocate of microframeworks. Today, we'll demonstrate how to employ OAuth2 authentication using Flask. Let's begin.
